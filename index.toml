@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "50f75b4945e065431dd205988f6ff23e2158651b6f64055f436a641f1484a26a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "4a54dcc11e9dcbc5fc99c7195057754ea2c39b1b7be994de3372de0b2b3994cf"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "b960d0449291816f78765f7a84298c8574e2ef82e4085eeac666fc48237a3a5e"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "63d0f4f1e606c6d0fadb3389f0a7d19249fe8e457d1dea43060f441face5cbce"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "395a2293de8f7a4b67264095c098b427e7a14ddbeaa35c113b201ac1c109c319"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8405864febccfb3af46c53983eeb8f69a985aaa1123f46b199fbe75fe908472c"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "02cc74e14373c51a1e951d5680bd5b4ea3c3f0ef0d115c3b1501d55bca15957a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "070dafa837bf65f354afc526122534830ccddedc470056de9c0a2538508f2ce7"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "44a0069a39f7b3c17d9a27375c2e98bb68217962df9c481c639fa9da1312b343"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "fade43bb0d8215031c5a23909187201dd2ef3ed4b89a1bb7463e0d83b4a358f0"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5404b593f53403b432c3a0a334f93f361ba6851c0ea7b21a83dc59d3fd66b931"
+metafile = true
+
+[[files]]
+file = "mods/nether-depths-upgrade.pw.toml"
+hash = "1f218cf6e12195835c78188f2be26826d08a059d9f5ebcde3ef79d7f94f2041c"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "9699a037b05ba58269cf3be2496cdba822b95c396fd2d55d57de8c1e47628ae6"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "85bd4bc47bb93e0889f03b36c68211442748ca0a7329dadf26bd4389d44bbebb"
+metafile = true
+
+[[files]]
+file = "mods/trade-uses.pw.toml"
+hash = "f0f2f3c32e49ddc0a7804c9dd2b10237e04e08a04c851a513ec01e94e5ac30f4"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "b47d9b0c4e359316b6f33c4c915397600cc489781391917be47f66f34ff73386"
+metafile = true

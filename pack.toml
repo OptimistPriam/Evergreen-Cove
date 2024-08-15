@@ -1,0 +1,13 @@
+name = "Evergreen Cove"
+author = "OptimistPriam"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d66de65592dcb99037a00d6caae1c6b1de36f458df6a5eab7a3e603113a2e901"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
